@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Kaha\source\repos\RAT\RAT\MyForm1.h(535,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  RAT.vcxproj -> C:\Users\Kaha\source\repos\RAT\Debug\RAT.exe
